@@ -1,0 +1,22 @@
+{
+  "name": "socketsnodejsstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiohilario/socketsNodeJSStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiohilario/socketsNodeJSStudy/issues"
+  },
+  "homepage": "https://github.com/claudiohilario/socketsNodeJSStudy#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
