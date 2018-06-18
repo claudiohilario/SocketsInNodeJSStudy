@@ -33,3 +33,8 @@ export DEBUG=*
 node server.js
 ```
 
+## Sending message to specific socket
+
+```js
+socket.to(socket.id).emit(eventName, data)
+```
